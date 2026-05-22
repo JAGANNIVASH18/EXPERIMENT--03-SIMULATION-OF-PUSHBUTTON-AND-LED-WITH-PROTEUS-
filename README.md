@@ -194,7 +194,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Proteus layout(Add pdf screen shot of circuit here)
  
- <img width="1226" height="819" alt="image" src="https://github.com/user-attachments/assets/c1d364ab-4db9-4218-adac-8d4c27dd68d3" />
+ <img width="1460" height="909" alt="image" src="https://github.com/user-attachments/assets/23b11d7d-933f-41ea-93fb-308486104d87" />
 
  
  
